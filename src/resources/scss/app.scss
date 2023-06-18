@@ -1,0 +1,11 @@
+@import 'variable';
+h1 {
+    color: $green-color;
+    font-size: 20px;
+    width: 50%;
+}
+.content {
+    background-color: aqua;
+    padding: 20px;
+    width: 40%;
+}
